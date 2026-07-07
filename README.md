@@ -4,3 +4,15 @@
 
 I am learning Git and GitHub starting over again.
 
+
+
+Today I learned:
+
+\-git init
+
+\-git status
+
+\-git add
+
+\-git commit
+
